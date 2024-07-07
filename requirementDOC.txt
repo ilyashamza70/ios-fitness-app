@@ -1,0 +1,39 @@
+iOS Fitness App for Calisthenics
+Introduction
+
+Objective: Develop an iOS app to add specific training details to the fitness app on Apple Watch and iPhone.
+Scope: Focus on calisthenics exercises (rope, push-ups, chin-ups, muscle-ups, leg raises).
+Tools and Extensions
+
+IDE: Xcode
+Languages: Swift
+Frameworks: HealthKit
+Version Control: Git, GitHub
+Virtual Machine: VirtualBox
+Learning Resources
+
+Swift Programming Language Guide
+iOS Development with Swift
+HealthKit Documentation
+Requirements
+
+Functional Requirements:
+User can select specific exercises.
+User can input training details (calories, timer, exercise type).
+Data syncs with Apple Watch and iPhone fitness app.
+Non-Functional Requirements:
+App must be responsive and user-friendly.
+Data synchronization should be seamless and fast.
+High-Level Design
+
+Architecture Diagram: [Include diagram here]
+Data Flow Diagram: [Include diagram here]
+Use Case Diagrams
+
+Exercise Selection and Input: [Include use case diagram here]
+Data Synchronization with HealthKit: [Include use case diagram here]
+Agile Project Management
+
+Backlog: List of features and improvements.
+User Stories: Detailed user stories with relative points.
+Scrum Process: Daily stand-ups, sprint planning, and reviews.

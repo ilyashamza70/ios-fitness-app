@@ -1,0 +1,25 @@
+
+### Confluence Documentation
+
+1. **Create a New Space**: Name it "iOS Fitness App for Calisthenics".
+2. **Pages Structure**:
+   - **Project Overview**: Objective, scope, and summary.
+   - **Requirements**: Functional and non-functional requirements.
+   - **Design**: Architecture diagrams, data flow diagrams, and use case diagrams.
+   - **Development**: Code snippets, API documentation, and tutorials.
+   - **Testing**: Test plans, test cases, and bug tracking.
+   - **Agile Management**: Backlog, user stories, sprint plans, and reviews.
+
+3. **Links and Resources**:
+   - Link to GitHub repository.
+   - Links to learning resources (Swift, HealthKit).
+   - Diagrams and design documents.
+
+### Next Steps
+
+1. **Complete the macOS Ventura setup on VirtualBox and install Xcode**.
+2. **Create the initial project in Xcode and set up GitHub repository**.
+3. **Start with the core functionality: exercise selection and input fields**.
+4. **Document the progress and updates in Confluence**.
+
+Once you have the macOS environment set up and Xcode installed, we can proceed to coding the initial features and integrating HealthKit.
