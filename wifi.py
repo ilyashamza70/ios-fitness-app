@@ -2,7 +2,7 @@ import qrcode
 
 # Dettagli della rete WiFi
 ssid = "WINDTRE-MHMF"
-password = "IldadononstatrattO1973!"
+password = print
 auth_type = "WPA"  # Può essere "WPA", "WEP", o lasciare vuoto per nessuna crittografia
 
 # Formatta la stringa per il QR code
